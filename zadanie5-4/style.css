@@ -1,0 +1,20 @@
+body {
+  background-color: darkgrey;
+}
+
+ul li {
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:active {
+  color: orange;
+  font-weight: bold;
+}
